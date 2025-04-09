@@ -15,15 +15,16 @@ Este é um projeto simples em Python que simula um torneio de futebol com tratam
 
 1. Clone o repositório:
 
+```bash
 git clone https://github.com/rafafrassetto/tratamento-de-erros-StackFix.git
 cd tratamento-de-erros-StackFix
-
+```
 2. Execute com Python:
-
+```bash
 python main.py
-
+```
 Via Docker : 
-
+```bash
 docker build -t tratamento-de-erros-StackFix .
 docker run --rm tratamento-de-erros-StackFix
-
+```
