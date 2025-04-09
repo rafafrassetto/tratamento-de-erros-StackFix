@@ -7,7 +7,11 @@ Projeto em Python que simula um torneio de futebol com tratamento de erros.
 - Criar partidas entre times
 - Exibir classificação final
 - Mostrar resultados das partidas
-- Tratamento de erros e logging no arquivo `log/erros.log`
+- Tratamento de erros e logging no arquivo `log/erros.log` :
+
+![image](https://github.com/user-attachments/assets/29ce4929-71a6-4ee3-8f64-976ec87c4381)
+
+
 
 ## 🚀 Como executar
 
