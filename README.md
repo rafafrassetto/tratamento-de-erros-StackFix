@@ -1,6 +1,6 @@
-# Torneio de Futebol ⚽
+# Torneio de Futebol
 
-Este é um projeto simples em Python que simula um torneio de futebol com tratamento de erros.
+Projeto em Python que simula um torneio de futebol com tratamento de erros.
 
 ## ✅ Funcionalidades
 - Registrar times
