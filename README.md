@@ -11,8 +11,6 @@ Projeto em Python que simula um torneio de futebol com tratamento de erros.
 
 ## 🚀 Como executar
 
-### Localmente
-
 1. Clone o repositório:
 
 ```bash
